@@ -1,6 +1,6 @@
 {
   "name": "william-rowan-hamilton",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A little sample library that helps calculate y=mx+b inspired by that famous tweet",
   "main": "index.js",
   "scripts": {
